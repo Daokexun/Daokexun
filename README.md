@@ -1,12 +1,3 @@
-<!-- 顶部横幅头图（你可以把这里的图片链接换成任何你喜欢的风景或动漫图片） -->
-<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2564&auto=format&fit=crop" width="100%" height="200" style="object-fit: cover; border-radius: 12px;">
-
-<!-- 动态打字机效果的标题 -->
-<h1 align="center">Hi there, I'm Daokexun 👋</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E95D3&center=true&vCenter=true&width=435&lines=Student+%40+[SYSU];A+Passionate+Developer;Exploring+AI+%26+Web" alt="Typing SVG" />
-</div>
 
 <p align="center">
   <!-- 这里的 username 换成你的！ -->
@@ -14,7 +5,21 @@
     <img src="https://komarev.com/ghpvc/?username=[Daokexun]&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Views" />
   </a>
 </p>
+<p align="center">
+  <a href="#">
+    <img width="400" align="top" src="https://github.com/Daokexun/Daokexun/blob/main/metrics.classic.svg" />
+  </a>
+  &emsp;
+  <a href="#">
+    <img width="400" align="top" src="https://github.com/Daokexun/Daokexun/blob/main/metrics.repositories.svg" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="#">
+    <img width="820" align="top" src="https://github.com/Daokexun/Daokexun/blob/main/metrics.plugin.isocalendar.svg" />
+  </a>
+</p>
 ---
 
 ### ✨  关于我 | About Me
