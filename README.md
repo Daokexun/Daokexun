@@ -1,6 +1,5 @@
 
 <p align="center">
-  <!-- 这里的 username 换成你的！ -->
   <a href="https://github.com/[Daokexun]">
     <img src="https://komarev.com/ghpvc/?username=[Daokexun]&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Views" />
   </a>
@@ -31,22 +30,12 @@
 
 ---
 
-### 🛠️  技能点 | Tech Stack
-
-<!-- 这里使用了 Shields.io 的高颜值徽章，结合了品牌主题色 -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cadence-004A8F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Synopsys-582C83?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white" />
-</p>
-
 
 ###  🌟 项目 | Featured Works
 
 | 💡 项目名称 | 📝 一句话简介 | 🔗 传送门 |
 | :--- | :--- | :--- |
-| 🌐 **征徒篮球小程序开发（进度1%）** |一款服务于篮球爱好者的技术平台 | [在线体验](你的链接) |
+| 🌐 **征徒篮球小程序开发** |一款服务于篮球爱好者的技术平台 | [在线体验](你的链接) |
 | 🌏 **地球online实体版（测试服）** |大型仿真游戏| [连接主机（尝试中）](你的链接) |
 | 📒 **个人网站（开荒版）** | 记录生活日常的个人博客 | [访问博客](你的链接) |
 
